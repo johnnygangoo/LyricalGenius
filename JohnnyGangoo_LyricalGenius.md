@@ -17,7 +17,7 @@ side while another on the front end side, that is why git is very import here, b
 will be made we need to be communative with eachother about what happens when a user clicks a certain button or when an invalid response is sent. 
 
 ##  Conceptual Design
-This project will build of an already created open source scraper project. Genius and Twilio both have api's that can be used for free. HTML/CSS will potentially be used for styling 
+This project will build off of an already existing open source scraper project. Genius and Twilio both have api's that can be used for free. HTML/CSS will potentially be used for styling 
 application while Vanilla Javascript and Node.js will be responsilble for handling the heavy work. This heavy work includes grabbing the song name, finding it (using the
 Genius api) displaying it to the user (on the client side), then from there having the user enter the number at which they would like to send the lyrics to. From there once "send" is hit the 
 lyrics and mobile number are sent to node to be parsed a used with twilio api to begin to send the messages. 
@@ -26,6 +26,13 @@ lyrics and mobile number are sent to node to be parsed a used with twilio api to
 <a href="https://github.com/farshed/genius-lyrics-api#types">Genius Lyric Scraper Repo</a>
 <br>
 Installation involves downloading the npm package that the repo has provided, and from there setting up the website
-and using the website name to create the API Client in Genius and Twilio. 
+and using the website name to create the API Client in Genius and Twilio. Also to allow any user to connect we will 
+need something like an AWS EC2 instance to keep our server, made by Node, active.
 
 ## Require Resources
+Students participating in this assignment will need the follow:
+ *  HTML
+ *  CSS
+ *  Javascript
+ *  Node.js<br>
+**If they are new to any of these, this project is a good gateway to learning about them.**
