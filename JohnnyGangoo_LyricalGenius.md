@@ -17,7 +17,7 @@ will be made we need to be communative with eachother about what happens when a 
 
 ##  Conceptual Design
 This project will build off of an already existing open source lyric scraper project. Along with that, Genius and Twilio both have api's that can be used for free. HTML/CSS will be used for design and styling parts of the
-application while Vanilla Javascript and Node.js will be responsilble for handling the heavy work. This heavy work includes grabbing the song name, finding it (using the
+application while Vanilla Javascript and Node.js will be responsible for handling the heavy work. This heavy work includes grabbing the song name, finding it (using the
 Genius api) displaying it to the user (on the client side), then from there having the user enter the number at which they would like to send the lyrics to. From there once "send" button is hit the 
 lyrics and mobile number are sent to node to be used with twilio api to begin to send the messages. 
 
