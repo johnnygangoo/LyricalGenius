@@ -4,8 +4,7 @@
 LyricalGenius is a Web application lyric scraper that uses the Genius api to grab lyrics from a song. Before getting any further, Genius is a media company that
 has lyrical artists come on, perform acapella and explain the lyrics they used in their song. They also stream music as well. From there the lyrics are parsed and
 sent, **one by one** as a mobile message using the Twilio api. Making this into a web app is easier for the user such that all they have to do is search the song 
-that they want, and click send to have these song lyrics be sent one by one. By sending messages one by one to a person very rapidly they might get very annoyed,
-but that is part of the fun in this assignment.<br><br><br>
+that they want and click send to have these song lyrics be sent one by one.Sending messages one by one to a person, very rapidly, will probably result in them getting very annoyed, but that is part of the fun in this assignment.<br><br><br>
 <img src=https://github.com/johnnygangoo/LyricalGenius/blob/master/JohnnyGangoo_LyricalGenius.png>
 
 ## Project Relevance
@@ -13,7 +12,7 @@ Looking at **Educational Goals** there are some concepts that will be applied in
 exactly what connections are being made throughout the system. Next this project is one that can be broken down into parts. Developers can be working on the connection
 side while another on the front end side, that is why git is very import here, by merging all the changes and consistently bug fixing we will be able to create a 
 **mainline** that represents all of our ideas. On top of that all of us will gain experience on both the backend and frontend because by the way the connections 
-will be made we need to be communative with eachother about what happens when a user clicks a certain button or when an invalid response is sent, etc. 
+will be made we need to be communatative with each other about what happens when a user clicks a certain button or when an invalid response is sent, etc. 
 
 ##  Conceptual Design
 This project will build off of an already existing open source lyric scraper project. Along with that, Genius and Twilio both have api's that can be used for free. HTML/CSS will be used for design and styling parts of the
