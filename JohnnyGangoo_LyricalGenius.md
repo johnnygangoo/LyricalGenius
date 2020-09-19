@@ -7,7 +7,7 @@ sent, **one by one** as a mobile message using the Twilio api. Making this into 
 that they want, and click send to have these song lyrics be sent one by one. By sending messages one by one to a person very rapidly they might get very annoyed,
 but that is part of the fun in this assignment. In the diagram below one thing I would like to point out is the connection from the first to last bubble. When the
 user presses send, they are then able to enter another song that is why that connection is made.<br><br><br>
-<img src=https://github.com/johnnygangoo/LyricalGenius/blob/master/JohnnyGangoo_LyricalGenius.png>
+<img src>
 
 ## Project Relevance
 Looking at **Educational Goals** there are some concepts that will be applied into this assignment. First is the design pattern, we will need to have a backend 
