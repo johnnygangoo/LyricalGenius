@@ -5,9 +5,9 @@ LyricalGenius is a Web application lyric scraper that uses the Genius api to gra
 has lyrical artists come on, perform acapella and explain the lyrics they used in their song. They also stream music as well. From there the lyrics are parsed and
 sent, **one by one** as a mobile message using the Twilio api. Making this into a web app is easier for the user such that all they have to do is search the song 
 that they want, and click send to have these song lyrics be sent one by one. By sending messages one by one to a person very rapidly they might get very annoyed,
-but that is part of the fun in this assignment.<br><br><br>
+but that is part of the fun in this assignment. In the diagram below one thing I would like to point out is the connection from the first to last bubble. When the
+user presses send, they are then able to enter another song that is why that connection is made.<br><br><br>
 <img src=https://github.com/johnnygangoo/LyricalGenius/blob/master/JohnnyGangoo_LyricalGenius.png>
-## Need diagram
 
 ## Project Relevance
 Looking at **Educational Goals** there are some concepts that will be applied into this assignment. First is the design pattern, we will need to have a backend 
