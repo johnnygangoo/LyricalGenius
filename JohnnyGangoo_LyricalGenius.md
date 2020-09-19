@@ -4,7 +4,7 @@
 LyricalGenius is a Web application lyric scraper that uses the Genius api to grab lyrics from a song. Before getting any further, Genius is a media company that
 has lyrical artists come on, perform acapella and explain the lyrics they used in their song. They also stream music as well. From there the lyrics are parsed and
 sent, **one by one** as a mobile message using the Twilio api. Making this into a web app is easier for the user such that all they have to do is search the song 
-that they want and click send to have these song lyrics be sent one by one.Sending messages one by one to a person, very rapidly, will probably result in them getting very annoyed, but that is part of the fun in this assignment.<br><br><br>
+that they want and click send to have these song lyrics be sent one by one. Sending messages one by one to a person, very rapidly, will probably result in them getting very annoyed, but that is part of the fun in this assignment.<br><br><br>
 <img src=https://github.com/johnnygangoo/LyricalGenius/blob/master/JohnnyGangoo_LyricalGenius.png>
 
 ## Project Relevance
